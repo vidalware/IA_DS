@@ -1,4 +1,4 @@
-# IA_DS – Prueba Técnica de Ciencia de Datos (Consultora Ambiental DSS)
+# IA_DS – Prueba Técnica de Ciencia de Datos
 
 ## Descripción del Proyecto y Contexto
 
@@ -35,4 +35,3 @@ A lo largo del proyecto se siguen las etapas típicas de un pipeline de ciencia 
   - `matplotlib`  
   - `seaborn`
  
-  - 
